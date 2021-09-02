@@ -1,6 +1,6 @@
 Feature('Submit A Message');
 
-Scenario('go to the Contact page and submit a message', ({ I }) => {
+Scenario('Go to the Contact page and submit a message', ({ I }) => {
 	I.amOnPage('https://girard-blog.netlify.app/');
 	I.click('Contact');
 	I.fillField('email', 'miles@davis.com');

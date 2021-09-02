@@ -30,6 +30,6 @@ npx codeceptjs run --steps
 
 ### More Info
 
-For more information about this testing technology, check out [Codeceptjs.io](https://codecept.io/).
+For more information about this testing technology, check out [Codecept.io](https://codecept.io/).
 
 Happy testing!
